@@ -36,7 +36,7 @@ iframe {
 }
 @media (max-width: 480px) {
     iframe {
-        height: 64vh;
+        height: 67vh;
     }
     h1 {
     font-size: 25px;
