@@ -33,4 +33,7 @@ iframe {
     iframe {
         height: 63vh;
     }
+    h1 {
+    font-size: 29px;
+}
 }
