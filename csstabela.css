@@ -13,9 +13,6 @@ header {
     text-align: center;
     padding: 20px 0;
 }
-h2 {
-    font-size: 24px;
-}
 .date {
     font-size: 10px;
     color: red;
@@ -35,5 +32,13 @@ iframe {
     }
     h1 {
     font-size: 29px;
+}
+}
+@media (max-width: 480px) {
+    iframe {
+        height: 64vh;
+    }
+    h1 {
+    font-size: 25px;
 }
 }
