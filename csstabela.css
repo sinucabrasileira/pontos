@@ -28,10 +28,10 @@ iframe {
 }
 @media (max-width: 768px) {
     iframe {
-        height: 64vh;
+        height: 65vh;
     }
     h1 {
-    font-size: 29px;
+    font-size: 30px;
 }
 }
 @media (max-width: 480px) {
